@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AreaCalculator/obj
+/TestsAreaCalculator/obj
+/TestsAreaCalculator/bin
+/AreaCalculator/bin/Debug
+/.vs
